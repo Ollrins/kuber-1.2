@@ -26,6 +26,6 @@
   <br>
 </p>
 <p align="center">
-  <img src="S/S3.png" width="800"/>
+  <img src="S/S3.png" width="400"/>
   <br>
 </p>
